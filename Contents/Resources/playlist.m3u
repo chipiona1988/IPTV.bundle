@@ -1,14 +1,20 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id="4",Planeta (rtmp)
-rtmp://planetaonline.cdnvideo.ru/rr/channel_2
-
-#EXTINF:0 tvg-id="6" tvg-name="NDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/NDTV_logo.svg/1280px-NDTV_logo.svg.png" group-title="News",NDTV 480p (http://bitgravity.com)
-http://ndtv.live.cdn.bitgravity.com/ndtv/live/ndtv247live512
-#EXTINF:0 tvg-id="6" tvg-name="NDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/NDTV_logo.svg/1280px-NDTV_logo.svg.png" group-title="News",NDTV 240p (http://bitgravity.com)
-http://bglive-a.bitgravity.com/ndtv/247hi/live/native
-#EXTINF:0 tvg-id="6" tvg-name="NDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/NDTV_logo.svg/1280px-NDTV_logo.svg.png" group-title="News",NDTV 240p (http://indostan.epac.to)
-http://ndtv.indostan.epac.to/ndtv/247lo/live/native
-
-#EXTINF:0 tvg-id="7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Peace_TV_logo_2015.jpeg",Peace TV Asia (rtmp)
-rtmp://peace.fms.visionip.tv/live/b2b-peace_asia-live-25f-4x3-sdh_1
+#EXTINF:-1 tvg-id="la1.es" tvg-name="La 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TVE_La1_-_Logo_2008.png/300px-TVE_La1_-_Logo_2008.png" group-title="ESPAÑA",La 1 FHD
+http://cms-xxiri.net:25461/Alejandro/alejandro241019/6238
+#EXTINF:-1 tvg-id="la1.es" tvg-name="La 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TVE_La1_-_Logo_2008.png/300px-TVE_La1_-_Logo_2008.png" group-title="ESPAÑA",La 1 HD
+http://cms-xxiri.net:25461/Alejandro/alejandro241019/6237
+#EXTINF:-1 tvg-id="la1.es" tvg-name="La 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TVE_La1_-_Logo_2008.png/300px-TVE_La1_-_Logo_2008.png" group-title="ESPAÑA",La 1 SD
+http://cms-xxiri.net:25461/Alejandro/alejandro241019/6236
+#EXTINF:-1 tvg-id="la2.es" tvg-name="La 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="ESPAÑA",La 2 FHD
+http://cms-xxiri.net:25461/Alejandro/alejandro241019/6235
+#EXTINF:-1 tvg-id="la2.es" tvg-name="La 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="ESPAÑA",La 2 SD
+http://cms-xxiri.net:25461/Alejandro/alejandro241019/6234
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="Antena 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Antena3_Atresmedia.png/687px-Antena3_Atresmedia.png" group-title="ESPAÑA",Antena 3 FHD
+http://cms-xxiri.net:25461/Alejandro/alejandro241019/6233
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="Antena 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Antena3_Atresmedia.png/687px-Antena3_Atresmedia.png" group-title="ESPAÑA",Antena 3 HD
+http://cms-xxiri.net:25461/Alejandro/alejandro241019/6232
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="Antena 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Antena3_Atresmedia.png/687px-Antena3_Atresmedia.png" group-title="ESPAÑA",Antena 3 SD
+http://cms-xxiri.net:25461/Alejandro/alejandro241019/6231
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="Cuatro FHD" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="ESPAÑA",Cuatro FHD
+http://cms-xxiri.net:25461/Alejandro/alejandro241019/6230

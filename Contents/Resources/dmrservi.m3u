@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="la1.es" tvg-name="La 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TVE_La1_-_Logo_2008.png/300px-TVE_La1_-_Logo_2008.png" group-title="ESPAÑA",La 1 FHD
+http://cms-xxiri.net:25461/Alejandro/alejandro241019/6238
+#EXTINF:-1 tvg-id="la1.es" tvg-name="La 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TVE_La1_-_Logo_2008.png/300px-TVE_La1_-_Logo_2008.png" group-title="ESPAÑA",La 1 HD
+http://cms-xxiri.net:25461/Alejandro/alejandro241019/6237
+#EXTINF:-1 tvg-id="la1.es" tvg-name="La 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TVE_La1_-_Logo_2008.png/300px-TVE_La1_-_Logo_2008.png" group-title="ESPAÑA",La 1 SD
+http://cms-xxiri.net:25461/Alejandro/alejandro241019/6236
+#EXTINF:-1 tvg-id="la2.es" tvg-name="La 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="ESPAÑA",La 2 FHD
+http://cms-xxiri.net:25461/Alejandro/alejandro241019/6235
+#EXTINF:-1 tvg-id="la2.es" tvg-name="La 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="ESPAÑA",La 2 SD
+http://cms-xxiri.net:25461/Alejandro/alejandro241019/6234
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="Antena 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Antena3_Atresmedia.png/687px-Antena3_Atresmedia.png" group-title="ESPAÑA",Antena 3 FHD
+http://cms-xxiri.net:25461/Alejandro/alejandro241019/6233
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="Antena 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Antena3_Atresmedia.png/687px-Antena3_Atresmedia.png" group-title="ESPAÑA",Antena 3 HD
+http://cms-xxiri.net:25461/Alejandro/alejandro241019/6232
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="Antena 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Antena3_Atresmedia.png/687px-Antena3_Atresmedia.png" group-title="ESPAÑA",Antena 3 SD
+http://cms-xxiri.net:25461/Alejandro/alejandro241019/6231
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="Cuatro FHD" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="ESPAÑA",Cuatro FHD
+http://cms-xxiri.net:25461/Alejandro/alejandro241019/6230
